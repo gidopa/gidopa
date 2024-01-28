@@ -1,4 +1,5 @@
-##Hello World I'm gido
+<h1>##Hello World I'm gido</h1>
+<hr>
 
 🌱 I’m currently learning ...
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
