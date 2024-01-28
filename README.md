@@ -1,4 +1,8 @@
-<h1>##Hello World I'm gido</h1>
+![header](https://capsule-render.vercel.app/api?type=wave&color=c0d6e4&text=Hello!World!&fontColor=CDA56D)
+<br>
+<h1>Hi I'm gido</h1>
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgidop&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
 <hr>
 
 🌱 I’m currently learning ...
@@ -10,6 +14,8 @@
     	![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
      ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
      ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gidopa&show_icons=true&theme=radical)
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jdm2131)](https://solved.ac/jdm2131/)
 
 <!--
 **gidopa/gidopa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
