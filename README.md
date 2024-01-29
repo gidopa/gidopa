@@ -48,12 +48,10 @@
 </p>
 
 <p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gidopa&show_icons=true&include_all_commits=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gidopa&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gidpa&show_icons=true&theme=dracula">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gidopa&layout=compact&theme=dracula">
 </p>
 
- 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=jdm2131)](https://solved.ac/jdm2131)
 
 <!--
 **gidopa/gidopa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
