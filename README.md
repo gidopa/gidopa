@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=c0d6e4&text=Hello!World!&fontColor=CDA56D)
+![header](https://capsule-render.vercel.app/api?type=wave&color=c0d6e4&text=Hello!World!&fontColor=ffcf40)
 <br>
 <h1>Hi I'm gido</h1>
 
