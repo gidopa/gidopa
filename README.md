@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=shark&color=c0d6e4&height=250&section=header&text=Hello!World%20GitHub&fontColor=ffcf40&fontSize=70&animation=scaleIn)
+![header](https://capsule-render.vercel.app/api?type=shark&color=030952&height=250&section=header&text=Hello!World%20GitHub&fontColor=ffcf40&fontSize=70&animation=scaleIn)
 <br>
 <h1>Hi I'm gido</h1>
 
